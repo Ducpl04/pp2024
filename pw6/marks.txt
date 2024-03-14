@@ -1,0 +1,6 @@
+math
+    pham thao linh: 15.0
+    pham le quy duc: 12.0
+phy
+    pham thao linh: 20.0
+    pham le quy duc: 15.0
